@@ -18,6 +18,8 @@ It will help the attendees get a slight idea about collaboration in GitHub.
 
 3.Aman Dwivedi
 
+4.Swapnil Rai
+
 
 
 ### You may also paste your favourite motivational quotes here under this section.
