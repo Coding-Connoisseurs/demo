@@ -16,6 +16,9 @@ It will help the attendees get a slight idea about collaboration in GitHub.
 
 2. Prateek 
 
+3.Aman Dwivedi
+
+
 
 ### You may also paste your favourite motivational quotes here under this section.
 (check using the preview button how the final output looks like)
